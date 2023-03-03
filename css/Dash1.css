@@ -1,0 +1,35 @@
+#more {display: none;}
+.bgimg{
+	background-image: url('bg.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 600px;
+}
+.headerset{
+	align-items: center;
+	padding-top: 180px;
+	box-sizing: border-box;
+}
+.headerset h2{
+	margin-left: 0px;
+	color: white;
+   font-size: 52px;
+   font-weight: bold;
+}
+.headerset button{
+	margin-left: 32px;
+
+}
+/*................services head text............*/
+.headtext{
+	font-weight: bold;
+}
+ /*.................services...................*/
+ .ourservices{
+ 	padding: 100px 0px 60px;
+ 	height: 700px;
+} 
+.ourservices h1{
+	margin-bottom: 75px;
+}
